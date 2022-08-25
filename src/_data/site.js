@@ -12,7 +12,7 @@ module.exports = {
 	description:
 		"A design built on top of Specimen Skeleton, based on research insights into effective digital type specimens.", // The description of your type specimen.
 
-	typeface: "STIX fonts", // The name of the typeface you are building
+	typeface: "Akzidenz Grotesk Extended", // The name of the typeface you are building
 	link: "https://www.stixfonts.org", // This is the URL used for the button
 	about:
 		"The mission of the Scientific and Technical Information Exchange (STIX) font creation project is the preparation of a comprehensive set of fonts that serve the scientific and engineering community in the process from manuscript creation through final publication, both in electronic and print formats.", // All about the typeface
