@@ -1,7 +1,12 @@
 [
-	{
-		"name": "AkzidenzGroteskBQ-Ext",
-		"selector": "akzidenzgroteskbq-ext",
-		"style": "unknown"
-	}
+    {
+        "name": "AkzidenzGroteskBQ-Ext",
+        "selector": "akzidenzgroteskbq-ext",
+        "style": "extended"
+    },
+    {
+        "name": "AkzidenzGroteskBQ-Light",
+        "selector": "akzidenzgroteskbq-light",
+        "style": "light"
+    }
 ]

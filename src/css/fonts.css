@@ -9,11 +9,11 @@
 }
 
 @font-face {
-    font-family: "AkzidenzGroteskBQ-Reg";
-    src: url("../fonts/akzidenzgrotesk-regular-webfont.woff2");
+    font-family: "AkzidenzGroteskBQ-Light";
+    src: url("../fonts/akzidenzgrotesk-light-webfont.woff2");
 }
 
-.akzidenzgroteskbq-reg {
-    font-family: "AkzidenzGroteskBQ-Reg", monospace;
+.akzidenzgroteskbq-light {
+    font-family: "AkzidenzGroteskBQ-Light", monospace;
 }
 
