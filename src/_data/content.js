@@ -6,14 +6,14 @@ module.exports = {
 	poster: "abc", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
-	tester: "Obras literias de dominio público",
+	tester: "Lorem ipsum dolor sit amet",
 
 	// Specimen. These are the four lines which are are set centred. The aim is to show different weights and styles, so choose content that is varied in nature.
-	specimen1: "Editta Azorazur",
+	specimen1: "Zuglabs",
 	specimen2: "",
-	specimen3: "Es una editorial independiente",
+	specimen3: "Consectetur adipiscing elit",
 	specimen4:
-		"dedicada a la recuperación , reedición, digitalización y difusión del patrimonio escrito en Venezuela.",
+		"Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 
 	// Setting. These four variables correspond to each block of text in the setting container.
 	setting1: "Everyone has the right to life",

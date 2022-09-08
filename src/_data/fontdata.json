@@ -1,12 +1,17 @@
 [
-    {
-        "name": "AkzidenzGroteskBQ-Ext",
-        "selector": "akzidenzgroteskbq-ext",
-        "style": "extended"
-    },
-    {
-        "name": "AkzidenzGroteskBQ-Light",
-        "selector": "akzidenzgroteskbq-light",
-        "style": "light"
-    }
+	{
+		"name": "Formata-Regular",
+		"selector": "formata-regular",
+		"style": "regular"
+	},
+	{
+		"name": "Formata-Light",
+		"selector": "formata-light",
+		"style": "light"
+	},
+	{
+		"name": "Formata-Bold",
+		"selector": "formata-bold",
+		"style": "bold"
+	}
 ]

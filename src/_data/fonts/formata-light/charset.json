@@ -140,6 +140,15 @@
         ]
     },
     {
+        "category": "Letter",
+        "subCategory": "Ligature",
+        "script": "latin",
+        "chars": [
+            "FB01",
+            "FB02"
+        ]
+    },
+    {
         "category": "Number",
         "subCategory": "Decimal Digit",
         "script": null,
