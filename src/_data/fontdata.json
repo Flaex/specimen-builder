@@ -1,12 +1,17 @@
 [
-    {
-        "name": "AkzidenzGroteskBQ-Ext",
-        "selector": "akzidenzgroteskbq-ext",
-        "style": "extended"
-    },
-    {
-        "name": "AkzidenzGroteskBQ-Light",
-        "selector": "akzidenzgroteskbq-light",
-        "style": "light"
-    }
+	{
+		"name": "HelveticaNeueLTStd-Bd",
+		"selector": "helveticaneueltstd-bd",
+		"style": "Bold"
+	},
+	{
+		"name": "HelveticaNeueLTStd-Md",
+		"selector": "helveticaneueltstd-md",
+		"style": "Medium"
+	},
+	{
+		"name": "HelveticaNeueLTStd-Roman",
+		"selector": "helveticaneueltstd-roman",
+		"style": "Roman"
+	}
 ]

@@ -3,17 +3,17 @@
 
 module.exports = {
 	// Masthead
-	poster: "abc", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
+	poster: "gbf", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
-	tester: "Obras literias de dominio público",
+	tester: "Productos con tecnología alemana y diseños de vanguardia",
 
 	// Specimen. These are the four lines which are are set centred. The aim is to show different weights and styles, so choose content that is varied in nature.
-	specimen1: "Editta Azorazur",
+	specimen1: "Gröber floors",
 	specimen2: "",
-	specimen3: "Es una editorial independiente",
-	specimen4:
-		"dedicada a la recuperación , reedición, digitalización y difusión del patrimonio escrito en Venezuela.",
+	specimen3:
+		"Comprometidos a vender productos de calidad y lujo para pisos cómodos y hermosos.",
+	specimen4: "",
 
 	// Setting. These four variables correspond to each block of text in the setting container.
 	setting1: "Everyone has the right to life",
