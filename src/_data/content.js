@@ -9,10 +9,10 @@ module.exports = {
 	tester: "Productos con tecnología alemana y diseños de vanguardia",
 
 	// Specimen. These are the four lines which are are set centred. The aim is to show different weights and styles, so choose content that is varied in nature.
-	specimen1: "Gröber floors",
+	specimen1: "Gröber Plus",
 	specimen2: "",
 	specimen3:
-		"Comprometidos a vender productos de calidad y lujo para pisos cómodos y hermosos.",
+		"Comprometidos a vender productos de calidad y lujo para cocinas cómodas y hermosas",
 	specimen4: "",
 
 	// Setting. These four variables correspond to each block of text in the setting container.

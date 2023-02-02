@@ -1,17 +1,17 @@
 [
 	{
-		"name": "HelveticaNeueLTStd-Bd",
-		"selector": "helveticaneueltstd-bd",
+		"name": "RockwellStd-Bold",
+		"selector": "rockwellstd-bold",
 		"style": "Bold"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Md",
-		"selector": "helveticaneueltstd-md",
-		"style": "Medium"
+		"name": "RockwellStd-Italic",
+		"selector": "rockwellstd-italic",
+		"style": "Italic"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Roman",
-		"selector": "helveticaneueltstd-roman",
-		"style": "Roman"
+		"name": "RockwellStd",
+		"selector": "rockwellstd",
+		"style": "Regular"
 	}
 ]
