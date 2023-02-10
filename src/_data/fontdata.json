@@ -1,17 +1,27 @@
 [
 	{
+		"name": "HelveticaNeueLTStd-BlkCn",
+		"selector": "helveticaneueltstd-blkcn",
+		"style": "unknown"
+	},
+	{
+		"name": "HelveticaNeueLTStd-Lt",
+		"selector": "helveticaneueltstd-lt",
+		"style": "unknown"
+	},
+	{
 		"name": "RockwellStd-Bold",
 		"selector": "rockwellstd-bold",
-		"style": "Bold"
+		"style": "bold"
 	},
 	{
 		"name": "RockwellStd-Italic",
 		"selector": "rockwellstd-italic",
-		"style": "Italic"
+		"style": "italic"
 	},
 	{
 		"name": "RockwellStd",
 		"selector": "rockwellstd",
-		"style": "Regular"
+		"style": "unknown"
 	}
 ]
