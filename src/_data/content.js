@@ -3,7 +3,7 @@
 
 module.exports = {
 	// Masthead
-	poster: "gbf", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
+	poster: "EuroGröber", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
 	tester: "Productos con tecnología alemana y diseños de vanguardia",
@@ -12,7 +12,7 @@ module.exports = {
 	specimen1: "Gröber Plus",
 	specimen2: "",
 	specimen3:
-		"Comprometidos a vender productos de calidad y lujo para cocinas cómodas y hermosas",
+		"Comprometidos a vender productos de calidad y lujo para cocinas cómodas y funcionales",
 	specimen4: "",
 
 	// Setting. These four variables correspond to each block of text in the setting container.
