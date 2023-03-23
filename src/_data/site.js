@@ -12,7 +12,7 @@ module.exports = {
 	description:
 		"A design built on top of Specimen Skeleton, based on research insights into effective digital type specimens.", // The description of your type specimen.
 
-	typeface: "Helvetica Neue LT Std Roman", // The name of the typeface you are building
+	typeface: "Helvetica Neue LT Std Bold", // The name of the typeface you are building
 	link: "https://www.stixfonts.org", // This is the URL used for the button
 	about:
 		"Helvetica, also known by its original name Neue Haas Grotesk, is a widely used sans-serif typeface developed in 1957. Helvetica is a neo-grotesque design, one influenced by the famous 19th century typeface Akzidenz-Grotesk and other German and Swiss designs", // All about the typeface

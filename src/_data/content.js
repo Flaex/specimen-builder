@@ -9,7 +9,7 @@ module.exports = {
 	tester: "Productos con tecnología alemana y diseños de vanguardia",
 
 	// Specimen. These are the four lines which are are set centred. The aim is to show different weights and styles, so choose content that is varied in nature.
-	specimen1: "Gröber Plus",
+	specimen1: "",
 	specimen2: "",
 	specimen3:
 		"Comprometidos a vender productos de calidad y lujo para cocinas cómodas y funcionales",

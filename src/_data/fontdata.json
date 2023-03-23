@@ -1,18 +1,13 @@
 [
 	{
-		"name": "HelveticaNeueLTStd-Roman",
-		"selector": "helveticaneueltstd-roman",
-		"style": "Roman"
+		"name": "HelveticaNeueLTStd-Bd",
+		"selector": "helveticaneueltstd-bd",
+		"style": "Bold"
 	},
 	{
 		"name": "HelveticaNeueLTStd-Lt",
 		"selector": "helveticaneueltstd-lt",
 		"style": "Light"
-	},
-	{
-		"name": "HelveticaNeueLTStd-Bd",
-		"selector": "helveticaneueltstd-bd",
-		"style": "Bold"
 	},
 	{
 		"name": "HelveticaNeueLTStd-Roman",
