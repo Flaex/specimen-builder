@@ -1,17 +1,7 @@
 [
 	{
-		"name": "Formata-Regular",
-		"selector": "formata-regular",
-		"style": "regular"
-	},
-	{
-		"name": "Formata-Light",
-		"selector": "formata-light",
-		"style": "light"
-	},
-	{
-		"name": "Formata-Bold",
-		"selector": "formata-bold",
-		"style": "bold"
+		"name": "CaeciliaLTStd-HeavyItalic",
+		"selector": "caecilialtstd-heavyitalic",
+		"style": "italic heavy"
 	}
 ]
