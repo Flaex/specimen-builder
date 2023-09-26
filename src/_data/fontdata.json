@@ -1,7 +1,22 @@
 [
 	{
-		"name": "CaeciliaLTStd-HeavyItalic",
-		"selector": "caecilialtstd-heavyitalic",
-		"style": "italic heavy"
+		"name": "HelveticaNeueLTStd-BdEx",
+		"selector": "helveticaneueltstd-bdex",
+		"style": "unknown"
+	},
+	{
+		"name": "HelveticaNeueLTStd-Roman",
+		"selector": "helveticaneueltstd-roman",
+		"style": "unknown"
+	},
+	{
+		"name": "HelveticaNeueLTStd-Bd",
+		"selector": "helveticaneueltstd-bd",
+		"style": "unknown"
+	},
+	{
+		"name": "Nunito-ExtraBold",
+		"selector": "nunito-extrabold",
+		"style": "bold extrabold"
 	}
 ]
