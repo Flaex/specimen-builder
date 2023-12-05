@@ -1,12 +1,12 @@
 [
 	{
-		"name": "HelveticaNeueLTStd-BdEx",
-		"selector": "helveticaneueltstd-bdex",
+		"name": "HelveticaNeueLTStd-Lt",
+		"selector": "helveticaneueltstd-lt",
 		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-LtEx",
-		"selector": "helveticaneueltstd-ltex",
+		"name": "HelveticaNeueLTStd-Bd",
+		"selector": "helveticaneueltstd-bd",
 		"style": "unknown"
 	},
 	{
