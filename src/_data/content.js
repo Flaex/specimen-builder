@@ -3,7 +3,7 @@
 
 module.exports = {
 	// Masthead
-	poster: "El veloz zorro marrón salta sobre el perro perezoso.", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
+	poster: "La hacienda Agua Fría se remonta entre los siglos XVIII y XVII", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
 	tester: "Lorem ipsum dolor sit amet",

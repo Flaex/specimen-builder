@@ -5,18 +5,13 @@
 		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Roman",
-		"selector": "helveticaneueltstd-roman",
+		"name": "HelveticaNeueLTStd-LtEx",
+		"selector": "helveticaneueltstd-ltex",
 		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Bd",
-		"selector": "helveticaneueltstd-bd",
+		"name": "HelveticaNeueLTStd-Ex",
+		"selector": "helveticaneueltstd-ex",
 		"style": "unknown"
-	},
-	{
-		"name": "Nunito-ExtraBold",
-		"selector": "nunito-extrabold",
-		"style": "bold extrabold"
 	}
 ]
