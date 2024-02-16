@@ -1,17 +1,17 @@
 [
 	{
-		"name": "HelveticaNeueLTStd-Lt",
-		"selector": "helveticaneueltstd-lt",
+		"name": "Saira Thin ExtraBold",
+		"selector": "saira-thin-extrabold",
 		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Bd",
-		"selector": "helveticaneueltstd-bd",
-		"style": "unknown"
+		"name": "Saira Thin Regular",
+		"selector": "saira-thin-regular",
+		"style": "regular"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Ex",
-		"selector": "helveticaneueltstd-ex",
+		"name": "Saira Thin Light",
+		"selector": "saira-thin-light",
 		"style": "unknown"
 	}
 ]
