@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Saira ExtraCondensed ExtraBold",
+		"selector": "saira-extracondensed-extrabold",
+		"style": "extra-condensed condensed"
+	},
+	{
+		"name": "Saira Thin Light",
+		"selector": "saira-thin-light",
+		"style": "unknown"
+	},
+	{
 		"name": "Saira Thin ExtraBold",
 		"selector": "saira-thin-extrabold",
 		"style": "unknown"
@@ -8,10 +18,5 @@
 		"name": "Saira Thin Regular",
 		"selector": "saira-thin-regular",
 		"style": "regular"
-	},
-	{
-		"name": "Saira Thin Light",
-		"selector": "saira-thin-light",
-		"style": "unknown"
 	}
 ]
