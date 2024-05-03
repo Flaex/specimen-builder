@@ -60,8 +60,8 @@
 			"00DC",
 			"00DD",
 			"00DE",
-			"0152",
-			"0178"
+			"0102",
+			"0152"
 		]
 	},
 	{
@@ -127,6 +127,7 @@
 			"00FD",
 			"00FE",
 			"00FF",
+			"0131",
 			"0153"
 		]
 	},
@@ -135,12 +136,6 @@
 		"subCategory": "Superscript",
 		"script": "latin",
 		"chars": ["00AA", "00BA"]
-	},
-	{
-		"category": "Letter",
-		"subCategory": "Ligature",
-		"script": "latin",
-		"chars": ["FB01", "FB02"]
 	},
 	{
 		"category": "Number",
@@ -163,13 +158,13 @@
 		"category": "Number",
 		"subCategory": "Small",
 		"script": null,
-		"chars": ["00B9", "00B2", "00B3"]
+		"chars": ["00B9", "00B2", "00B3", "2074"]
 	},
 	{
 		"category": "Number",
 		"subCategory": "Fraction",
 		"script": null,
-		"chars": ["00BD", "00BC", "00BE"]
+		"chars": ["00BD", "00BC", "00BE", "2044"]
 	},
 	{
 		"category": "Punctuation",
@@ -222,16 +217,7 @@
 		"category": "Punctuation",
 		"subCategory": "Dash",
 		"script": null,
-		"chars": [
-			"002D",
-			"005F",
-			"00AD",
-			"2010",
-			"2011",
-			"2012",
-			"2013",
-			"2014"
-		]
+		"chars": ["002D", "005F", "00AD", "2013", "2014"]
 	},
 	{
 		"category": "Symbol",
@@ -272,46 +258,48 @@
 			"005E",
 			"00B5",
 			"00D7",
-			"00F7"
+			"00F7",
+			"2212",
+			"2215"
 		]
 	},
 	{
 		"category": "Symbol",
-		"subCategory": "Geometry",
+		"subCategory": "Arrow",
 		"script": null,
-		"chars": ["25FC"]
+		"chars": ["2191", "2193"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": null,
+		"script": null,
+		"chars": ["000D"]
 	},
 	{
 		"category": "Separator",
 		"subCategory": "Space",
 		"script": null,
-		"chars": [
-			"0020",
-			"00A0",
-			"2000",
-			"2001",
-			"2002",
-			"2003",
-			"2004",
-			"2005",
-			"2006",
-			"2007",
-			"2008",
-			"2009",
-			"200A",
-			"202F"
-		]
-	},
-	{
-		"category": "Separator",
-		"subCategory": "Space",
-		"script": "math",
-		"chars": ["205F"]
+		"chars": ["0020", "00A0"]
 	},
 	{
 		"category": "Mark",
 		"subCategory": "Spacing",
 		"script": null,
-		"chars": ["0060", "00B4", "02C6", "02DC", "00AF", "00A8", "00B8"]
+		"chars": [
+			"0060",
+			"00B4",
+			"02C6",
+			"02DC",
+			"00AF",
+			"00A8",
+			"02DA",
+			"00B8"
+		]
+	},
+	{
+		"category": "Mark",
+		"subCategory": "Nonspacing",
+		"script": null,
+		"chars": ["0308", "0300", "0301", "0303", "0304"]
 	}
 ]

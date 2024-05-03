@@ -1,17 +1,28 @@
 [
 	{
-		"name": "HelveticaNeueLTStd-Bd",
-		"selector": "helveticaneueltstd-bd",
-		"style": "Bold"
+		"name": "Syne Bold",
+		"selector": "syne-bold",
+		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Md",
-		"selector": "helveticaneueltstd-md",
-		"style": "Medium"
+		"name": "Syne Medium",
+		"selector": "syne-medium",
+		"style": "unknown"
 	},
 	{
-		"name": "HelveticaNeueLTStd-Roman",
-		"selector": "helveticaneueltstd-roman",
-		"style": "Roman"
+		"name": "Syne Regular",
+		"selector": "syne-regular",
+		"style": "regular"
+	},
+	{
+		"name": "Syne SemiBold",
+		"selector": "syne-semibold",
+		"style": "unknown"
+	},
+
+	{
+		"name": "Syne ExtraBold",
+		"selector": "syne-extrabold",
+		"style": "unknown"
 	}
 ]
