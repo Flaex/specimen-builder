@@ -1,22 +1,32 @@
 [
 	{
-		"name": "Saira ExtraCondensed ExtraBold",
-		"selector": "saira-extracondensed-extrabold",
-		"style": "extra-condensed condensed"
-	},
-	{
-		"name": "Saira Thin Light",
-		"selector": "saira-thin-light",
+		"name": "Roboto-Medium",
+		"selector": "roboto-medium",
 		"style": "unknown"
 	},
 	{
-		"name": "Saira Thin ExtraBold",
-		"selector": "saira-thin-extrabold",
+		"name": "Roboto-Light",
+		"selector": "roboto-light",
 		"style": "unknown"
 	},
 	{
-		"name": "Saira Thin Regular",
-		"selector": "saira-thin-regular",
-		"style": "regular"
+		"name": "Poppins-Bold",
+		"selector": "poppins-bold",
+		"style": "unknown"
+	},
+	{
+		"name": "Poppins-Light",
+		"selector": "poppins-light",
+		"style": "unknown"
+	},
+	{
+		"name": "ITCAvantGardeStd-Bk",
+		"selector": "itcavantgardestd-bk",
+		"style": "unknown"
+	},
+	{
+		"name": "ITCAvantGardeStd-Bold",
+		"selector": "itcavantgardestd-bold",
+		"style": "bold"
 	}
 ]

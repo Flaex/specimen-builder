@@ -232,6 +232,7 @@
 			"00AE",
 			"00B0",
 			"00B6",
+			"FFFD",
 			"2032",
 			"2033",
 			"2122"
@@ -264,22 +265,22 @@
 		]
 	},
 	{
-		"category": "Symbol",
-		"subCategory": "Arrow",
-		"script": null,
-		"chars": ["2191", "2193"]
-	},
-	{
 		"category": "Separator",
 		"subCategory": null,
 		"script": null,
-		"chars": ["0000", "000D"]
+		"chars": ["000D"]
 	},
 	{
 		"category": "Separator",
 		"subCategory": "Space",
 		"script": null,
-		"chars": ["0020", "00A0", "2002"]
+		"chars": ["0020", "00A0", "2002", "2009", "200B"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": "Format",
+		"script": null,
+		"chars": ["FEFF"]
 	},
 	{
 		"category": "Mark",
@@ -306,6 +307,6 @@
 		"category": "Mark",
 		"subCategory": "Nonspacing",
 		"script": null,
-		"chars": ["0308", "0300", "0301", "0303", "0304", "0309", "0323"]
+		"chars": ["0300", "0301", "0303", "0309", "0323"]
 	}
 ]

@@ -60,7 +60,6 @@
 			"00DC",
 			"00DD",
 			"00DE",
-			"0102",
 			"0152"
 		]
 	},
@@ -158,7 +157,7 @@
 		"category": "Number",
 		"subCategory": "Small",
 		"script": null,
-		"chars": ["00B9", "00B2", "00B3", "2074"]
+		"chars": ["00B9", "00B2", "00B3"]
 	},
 	{
 		"category": "Number",
@@ -233,8 +232,6 @@
 			"00AE",
 			"00B0",
 			"00B6",
-			"2032",
-			"2033",
 			"2122"
 		]
 	},
@@ -266,12 +263,6 @@
 		]
 	},
 	{
-		"category": "Symbol",
-		"subCategory": "Arrow",
-		"script": null,
-		"chars": ["2191", "2193"]
-	},
-	{
 		"category": "Separator",
 		"subCategory": null,
 		"script": null,
@@ -281,7 +272,7 @@
 		"category": "Separator",
 		"subCategory": "Space",
 		"script": null,
-		"chars": ["0020", "00A0", "2002"]
+		"chars": ["0020", "00A0"]
 	},
 	{
 		"category": "Mark",
@@ -303,11 +294,5 @@
 			"02DA",
 			"00B8"
 		]
-	},
-	{
-		"category": "Mark",
-		"subCategory": "Nonspacing",
-		"script": null,
-		"chars": ["0308", "0300", "0301", "0303", "0304", "0309", "0323"]
 	}
 ]
