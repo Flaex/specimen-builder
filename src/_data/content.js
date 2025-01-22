@@ -3,7 +3,7 @@
 
 module.exports = {
 	// Masthead
-	poster: "Íbice Group - Inversiones inmobiliarias estratégicas", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
+	poster: "Root orthotics has been the gold standard in podiatric care", // This appears as the three large glyphs at the top. Change this to a few interesting glyphs that summarise the typeface. Ψ℘ℜ
 
 	// Tester. This is the default text for the type tester.
 	tester: "Lorem ipsum dolor sit amet",

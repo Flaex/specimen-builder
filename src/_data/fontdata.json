@@ -1,32 +1,22 @@
 [
 	{
-		"name": "Roboto-Medium",
-		"selector": "roboto-medium",
-		"style": "unknown"
+		"name": "Gilroy-Regular",
+		"selector": "gilroy-regular",
+		"style": "regular"
 	},
 	{
-		"name": "Roboto-Light",
-		"selector": "roboto-light",
-		"style": "unknown"
+		"name": "Gilroy-Medium",
+		"selector": "gilroy-medium",
+		"style": "medium"
 	},
 	{
-		"name": "Poppins-Bold",
-		"selector": "poppins-bold",
-		"style": "unknown"
+		"name": "Gilroy-ExtraBold",
+		"selector": "gilroy-extrabold",
+		"style": "bold extrabold"
 	},
 	{
-		"name": "Poppins-Light",
-		"selector": "poppins-light",
-		"style": "unknown"
-	},
-	{
-		"name": "ITCAvantGardeStd-Bk",
-		"selector": "itcavantgardestd-bk",
-		"style": "unknown"
-	},
-	{
-		"name": "ITCAvantGardeStd-Bold",
-		"selector": "itcavantgardestd-bold",
+		"name": "Gilroy-Bold",
+		"selector": "gilroy-bold",
 		"style": "bold"
 	}
 ]
